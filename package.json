@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
+    "highcharts": "^7.0.3",
     "highcharts-react-official": "^2.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",

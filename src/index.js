@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-import HighchartsReact from 'highcharts-react-official';
-import Highcharts from 'highcharts';
+//import HighchartsReact from 'highcharts-react-official';
+//import Highcharts from 'highcharts';
 
 ReactDOM.render(
   <React.StrictMode>
